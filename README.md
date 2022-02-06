@@ -25,7 +25,7 @@ An unofficial project which collects metrics from [SevOne](https://www.sevone.co
 Download the files from the Git repository into the Telegraf directory (usually `/etc/telegraf/telegraf.d`).
 ```bash
 cd /etc/telegraf/telegraf.d
-git clone TODO URL
+git clone https://github.com/GShuttleworth/VMware-Tanzu-Observability-SevOne-Integration
 ```
 #### Virtual environment
 It is best practice to run the python scripts inside a [Python virtual environemt](https://docs.python.org/3/tutorial/venv.html).
