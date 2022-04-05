@@ -49,7 +49,7 @@ python3 -m venv venv
 To install Python dependancies:
 1. Enter Python virtual environment:
     ```bash
-    activate venv/bin/activate
+    source venv/bin/activate
     ```
 2. Install requrements from `requirements.txt` file.
     ```bash
