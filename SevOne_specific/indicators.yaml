@@ -1,0 +1,10 @@
+#! Individual SevOne indicators to collect, deviceId, objectId, and indicatorId required.
+- indicators:
+    #! Example device 1:
+    - deviceId: 123456
+      objectId: 1234567
+      indicatorId: 1234567
+    #! Example device 2:
+    - deviceId: 123456
+      objectId: 1234567
+      indicatorId: 1234567
